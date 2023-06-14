@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "top-nav": "/components/topNav",
+    "tab": "/components/tab",
+    "swiper-video": "/components/swiperVideo"
+  }
+}

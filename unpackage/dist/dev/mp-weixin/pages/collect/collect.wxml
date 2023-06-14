@@ -1,0 +1,1 @@
+<view class="page__container"><view class="page__content"></view><tab vue-id="32c8b92a-1" curr-tab="{{3}}" bind:__l="__l"></tab></view>

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/discover/discover",
+    "pages/my/my",
+    "pages/collect/collect"
+  ],
+  "subPackages": [
+    {
+      "root": "subpages",
+      "pages": [
+        "experience"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/discover/discover",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/collect/collect",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,51 @@
+
+    {
+        "title": "Introduction to Python",
+        "desc": "Learn the basics of Python programming language.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/1ff8fb3d-e92c-4eda-9119-822e9adef5f2.mp4"
+    },
+    {
+        "title": "JavaScript for Beginners",
+        "desc": "Get started with JavaScript and learn its fundamentals.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/72de86a8-fdf6-4ea4-9d9c-a23aecad2e05.mp4"
+    },
+    {
+        "title": "Web Development with React",
+        "desc": "Build powerful web applications with React and Redux.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/caee0b81-881d-4cae-b1f9-d1b303992f0a.mp4"
+    },
+    {
+        "title": "Data Science with Python",
+        "desc": "Master data science techniques using Python.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/276cce26-e015-498e-a5ba-17143e15b5d0.mp4"
+    },
+    {
+        "title": "iOS App Development",
+        "desc": "Create native iOS apps with Swift.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/a677a64f-aaa9-4edf-847d-ac6e976ac237.mp4"
+    },
+    {
+        "title": "Android App Development",
+        "desc": "Build Android apps with Java and Kotlin.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/c40e5927-b549-4644-adbc-3c2205aae28b.mp4"
+    },
+    {
+        "title": "Machine Learning with TensorFlow",
+        "desc": "Explore the world of machine learning using TensorFlow.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/48fb9725-4c23-4cde-80b8-c045fa6593bf.mp4"
+    },
+    {
+        "title": "Full Stack Web Development",
+        "desc": "Become a full stack developer with this comprehensive course.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/febbb6f6-6d1c-4939-b1a5-2d9693a011e2.mp4"
+    },
+    {
+        "title": "Game Development with Unity",
+        "desc": "Learn game development with Unity and C#.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/6be06d0a-4bca-4802-8682-a4fe8593301b.mp4"
+    },
+    {
+        "title": "Cybersecurity Essentials",
+        "desc": "Understand the fundamentals of cybersecurity and protect your online presence.",
+        "url": "https://mp-7bd90697-52d7-4103-932f-a8782e6f1132.cdn.bspapp.com/cloudstorage/3e731183-13f6-4bb1-896d-01ec6c2e0f5f.mp4"
+    }
